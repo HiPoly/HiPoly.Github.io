@@ -10,7 +10,7 @@ In Dungeons and Dragons you can be granted Advantage, a condition which lets you
 We'll want to roll a number of times equal to the number of dice granted, display a list of results, whether the highest result succeeds and
 
 ### Wyll, Blade of Frontiers (Advantage Hurts)
-[Wyll]https://c1.scryfall.com/file/scryfall-cards/large/front/5/e/5e9d4562-964d-48ce-b03f-7cb491fa040d.jpg?1653075029
+![Wyll]https://c1.scryfall.com/file/scryfall-cards/large/front/5/e/5e9d4562-964d-48ce-b03f-7cb491fa040d.jpg?1653075029
 Wyll is considered a strict upgrade to Pixie Guide, with the same ability and an additional one, each time you roll one or more dice at the same time, he get's a +1/+1 counter, increasing his potential damage. As each copy is created the previously existing ones will 'tick up' and the new copy will be able to see future dice rolls. As an added feature I want to know the total damage that can dispersed with all these copies of Wyll, we'll want to get Wyll's starting power if he has gained counters prior to being targeted then for the number of copies Add the power of the Original copy of Wyll, then one less damage for each copy.
 
 ### Farideh, Devil's Chosen (Card Advantage)
