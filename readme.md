@@ -3,7 +3,7 @@ For this project I wanted to make a tool for an incredibly niche market (which m
 
 ## The Context
 ### Delina, Wild Mage (Dicey Mage)
-![afr-138-delina-wild-mage](https://user-images.githubusercontent.com/61814399/179874894-c4236708-6198-4a91-bd9f-9a2b9d5526c5.jpg | width=50)
+![afr-138-delina-wild-mage](https://user-images.githubusercontent.com/61814399/179874894-c4236708-6198-4a91-bd9f-9a2b9d5526c5.jpg | width="50")
 Delina, Wild Mage is a creature in the game which when attacking may create a copy of a creature the player owns which is tapped and attacking then rolls a dice to determine whether to repeat this action. Simple enough right? Just repeat the dice roll after each success and note down the total number of successes. It does however become a bit more complicated with a select few cards.
 
 ### Pixie Guide (Grant Advantage)
